@@ -8,6 +8,4 @@ I am currently a university student majoring in computer science, with a profoun
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for a position as an intern or trainee.
 
 ## Certifications
-<div>
 [![Badge](https://img.shields.io/badge/Credly-Badge-blue?style=for-the-badge)](https://www.credly.com/badges/533f33c5-0d41-4a78-97f4-6f5febe1ca12/public_url)
-</div>
