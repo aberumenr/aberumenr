@@ -9,5 +9,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" alt="Badge Image">
+[![Badge](https://img.shields.io/badge/Credly-Badge-blue?style=for-the-badge)](https://www.credly.com/badges/533f33c5-0d41-4a78-97f4-6f5febe1ca12/public_url)
 </div>
