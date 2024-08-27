@@ -13,4 +13,5 @@ Driven by a strong foundation in computer science and a growing passion for cybe
 
 ## Certifications
 [![Badge](https://img.shields.io/badge/Cisco-Badge-blue?style=for-the-badge)](https://www.credly.com/badges/533f33c5-0d41-4a78-97f4-6f5febe1ca12/public_url)
-[![Certificate](https://img.shields.io/certificate/Google-Badge-blue?style=for-the-badge)](https://coursera.org/share/39d7759507827af7bf4651e4b0a286fd)
+[![Certificate](https://img.shields.io/badge/Google-Certificate-blue?style=for-the-badge)](https://coursera.org/share/39d7759507827af7bf4651e4b0a286fd)
+
