@@ -12,4 +12,5 @@ I am a dedicated cybersecurity professional with strong communication and time m
 Driven by a strong foundation in computer science and a growing passion for cybersecurity, I am eager to transition into this dynamic field. I am actively seeking an internship or trainee position where I can apply and expand my skills in cybersecurity, contribute to real-world security challenges, and continue my professional development.
 
 ## Certifications
-[![Badge](https://img.shields.io/badge/Credly-Badge-blue?style=for-the-badge)](https://www.credly.com/badges/533f33c5-0d41-4a78-97f4-6f5febe1ca12/public_url)
+[![Badge](https://img.shields.io/badge/Cisco-Badge-blue?style=for-the-badge)](https://www.credly.com/badges/533f33c5-0d41-4a78-97f4-6f5febe1ca12/public_url)
+[![Badge](https://img.shields.io/badge/Google-Badge-blue?style=for-the-badge)](https://coursera.org/share/39d7759507827af7bf4651e4b0a286fd)
